@@ -1,0 +1,10 @@
+.headerBlock{
+    background-color: aquamarine;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+}
+
